@@ -4,10 +4,10 @@ attempting to figure out how to use git and git hub together
 
 ##Read me first
 
-*R
+*R/n
 
 
-*git
+*git\n
 
-*GitHub
+*GitHub<<newline
 
